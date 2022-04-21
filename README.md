@@ -1,4 +1,4 @@
-hicc introduction 2021, 17 김진호
+HICC introduction 2021, 17 김진호
 
 Git 사용 목적 : 버전관리, 백업, 협업을 위해서
 
